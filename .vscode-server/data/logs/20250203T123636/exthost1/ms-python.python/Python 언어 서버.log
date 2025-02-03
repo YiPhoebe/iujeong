@@ -1,0 +1,29 @@
+2025-02-03 12:38:01.960 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-02-03 12:38:02.159 [info] [Info  - 오후 12:38:02] (2715143) Server root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-02-03 12:38:02.159 [info] [Info  - 오후 12:38:02] (2715143) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-02-03 12:38:02.162 [info] [Info  - 오후 12:38:02] (2715143) Starting service instance "iujeong"
+2025-02-03 12:38:02.186 [info] [Info  - 오후 12:38:02] (2715143) Setting environmentName for service "iujeong": "3.12.8 (bogdong conda)"
+2025-02-03 12:38:02.186 [info] [Info  - 오후 12:38:02] (2715143) Setting pythonPath for service "iujeong": "/opt/anaconda3/envs/bogdong/bin/python"
+2025-02-03 12:38:02.186 [info] [Info  - 오후 12:38:02] (2715143) No include entries specified; assuming /home/iujeong
+2025-02-03 12:38:02.187 [info] [Info  - 오후 12:38:02] (2715143) Auto-excluding **/node_modules
+2025-02-03 12:38:02.187 [info] [Info  - 오후 12:38:02] (2715143) Auto-excluding **/__pycache__
+2025-02-03 12:38:02.189 [info] [Info  - 오후 12:38:02] (2715143) Auto-excluding **/.*
+2025-02-03 12:38:02.205 [info] [Info  - 오후 12:38:02] (2715143) Assuming Python version 3.12.8.final.0
+2025-02-03 12:38:02.235 [info] [Info  - 오후 12:38:02] (2715143) Found 7 source files
+2025-02-03 12:38:02.429 [info] [Info  - 오후 12:38:02] (2715143) Background analysis(1) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-02-03 12:38:02.430 [info] [Info  - 오후 12:38:02] (2715143) Background analysis(1) started
+2025-02-03 14:49:04.215 [info] [Info  - 오후 2:49:04] Server process exited successfully
+2025-02-03 14:49:04.828 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-02-03 14:49:05.088 [info] [Info  - 오후 2:49:05] (2846518) Server root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-02-03 14:49:05.089 [info] [Info  - 오후 2:49:05] (2846518) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-02-03 14:49:05.093 [info] [Info  - 오후 2:49:05] (2846518) Starting service instance "iujeong"
+2025-02-03 14:49:05.115 [info] [Info  - 오후 2:49:05] (2846518) Setting environmentName for service "iujeong": "3.12.8 (bogdong conda)"
+2025-02-03 14:49:05.116 [info] [Info  - 오후 2:49:05] (2846518) Setting pythonPath for service "iujeong": "/opt/anaconda3/envs/bogdong/bin/python"
+2025-02-03 14:49:05.116 [info] [Info  - 오후 2:49:05] (2846518) No include entries specified; assuming /home/iujeong
+2025-02-03 14:49:05.116 [info] [Info  - 오후 2:49:05] (2846518) Auto-excluding **/node_modules
+2025-02-03 14:49:05.117 [info] [Info  - 오후 2:49:05] (2846518) Auto-excluding **/__pycache__
+2025-02-03 14:49:05.117 [info] [Info  - 오후 2:49:05] (2846518) Auto-excluding **/.*
+2025-02-03 14:49:05.142 [info] [Info  - 오후 2:49:05] (2846518) Assuming Python version 3.12.8.final.0
+2025-02-03 14:49:05.175 [info] [Info  - 오후 2:49:05] (2846518) Found 4 source files
+2025-02-03 14:49:05.417 [info] [Info  - 오후 2:49:05] (2846518) Background analysis(1) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-02-03 14:49:05.417 [info] [Info  - 오후 2:49:05] (2846518) Background analysis(1) started
