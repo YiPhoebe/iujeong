@@ -117,3 +117,7 @@
 2025-02-03 14:56:15.890 [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
 2025-02-03 14:56:18.685 [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
 2025-02-03 14:56:20.929 [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
+2025-02-03 14:56:22.120 [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
+2025-02-03 14:56:25.964 [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
+2025-02-03 14:56:28.748 [warning] [Decorations] CAPPING events from decorations provider vscode.git 535
+2025-02-03 14:58:16.850 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
