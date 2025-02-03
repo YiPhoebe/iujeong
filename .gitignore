@@ -16,6 +16,7 @@ config.json
 
 # VScode 설정 파일 무시
 .vscode/
+.vscode-server/
 
 # 캐시 파일 무시
 *.cache
