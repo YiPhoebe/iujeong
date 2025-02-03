@@ -1,0 +1,20 @@
+2025-01-31 09:29:44.882 [info] 
+
+
+
+
+2025-01-31 09:29:44.886 [info] Extension host agent started.
+2025-01-31 09:29:44.924 [info] [<unknown>][4781d4e5][ExtensionHostConnection] New connection established.
+2025-01-31 09:29:44.929 [info] [<unknown>][51880fe9][ManagementConnection] New connection established.
+2025-01-31 09:29:44.952 [info] [<unknown>][4781d4e5][ExtensionHostConnection] <2104591> Launched Extension Host Process.
+2025-01-31 09:29:44.970 [info] [<unknown>][4781d4e5][ExtensionHostConnection] <2104591><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-01-31 09:34:44.886 [info] New EH opened, aborting shutdown
+2025-01-31 11:09:54.008 [info] [<unknown>][51880fe9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-01-31 14:09:33.320 [info] [<unknown>][4781d4e5][ExtensionHostConnection] <2104591> Extension Host Process exited with code: 0, signal: null.
+2025-01-31 14:09:33.322 [info] Last EH closed, waiting before shutting down
+2025-01-31 14:09:33.323 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2025-01-31 14:10:00.044 [info] [<unknown>][51880fe9][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-01-31 14:14:33.322 [info] Last EH closed, shutting down

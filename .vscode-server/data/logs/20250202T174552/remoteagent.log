@@ -1,0 +1,101 @@
+2025-02-02 17:45:52.389 [info] 
+
+
+
+
+2025-02-02 17:45:52.393 [info] Extension host agent started.
+2025-02-02 17:45:52.467 [info] [<unknown>][96a156bc][ExtensionHostConnection] New connection established.
+2025-02-02 17:45:52.482 [info] [<unknown>][bedfeee9][ManagementConnection] New connection established.
+2025-02-02 17:45:52.497 [info] [<unknown>][96a156bc][ExtensionHostConnection] <2448410> Launched Extension Host Process.
+2025-02-02 17:45:52.517 [info] [<unknown>][96a156bc][ExtensionHostConnection] <2448410><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 17:46:30.842 [info] [<unknown>][6394a91b][ManagementConnection] New connection established.
+2025-02-02 17:46:30.857 [info] [<unknown>][9fff9067][ExtensionHostConnection] New connection established.
+2025-02-02 17:46:30.859 [info] [<unknown>][9fff9067][ExtensionHostConnection] <2451373> Launched Extension Host Process.
+2025-02-02 17:46:30.877 [info] [<unknown>][9fff9067][ExtensionHostConnection] <2451373><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 17:46:32.620 [info] [<unknown>][bedfeee9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 17:46:32.661 [info] [<unknown>][96a156bc][ExtensionHostConnection] <2448410> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 17:46:32.661 [info] Cancelling previous shutdown timeout
+2025-02-02 17:46:38.108 [info] [<unknown>][6394a91b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 17:46:38.119 [info] [<unknown>][9fff9067][ExtensionHostConnection] <2451373> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 17:46:38.119 [info] Last EH closed, waiting before shutting down
+2025-02-02 17:46:38.734 [info] [<unknown>][ecaf4403][ExtensionHostConnection] New connection established.
+2025-02-02 17:46:38.736 [info] [<unknown>][ecaf4403][ExtensionHostConnection] <2451431> Launched Extension Host Process.
+2025-02-02 17:46:38.753 [info] [<unknown>][a92c4e2b][ManagementConnection] New connection established.
+2025-02-02 17:46:38.755 [info] [<unknown>][ecaf4403][ExtensionHostConnection] <2451431><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 17:51:38.120 [info] New EH opened, aborting shutdown
+2025-02-02 18:33:13.298 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-02 19:08:43.581 [info] [<unknown>][a92c4e2b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-02 21:20:39.263 [info] [<unknown>][a92c4e2b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-02 21:20:39.264 [info] [<unknown>][b997f6a7][ManagementConnection] New connection established.
+2025-02-02 21:20:39.265 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2025-02-02 21:20:39.499 [info] [<unknown>][aeab6b9b][ExtensionHostConnection] New connection established.
+2025-02-02 21:20:39.501 [info] [<unknown>][aeab6b9b][ExtensionHostConnection] <undefined> Launched Extension Host Process.
+2025-02-02 21:20:39.502 [error] [<unknown>][aeab6b9b][ExtensionHostConnection] <undefined> Extension Host Process had an error
+2025-02-02 21:20:39.502 [error] Error: spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-02 21:25:39.376 [info] [<unknown>][a92c4e2b][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-02-02 21:25:39.483 [info] [<unknown>][ecaf4403][ExtensionHostConnection] <2451431> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 21:25:39.484 [info] Last EH closed, waiting before shutting down
+2025-02-02 21:29:07.587 [info] [<unknown>][b997f6a7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 21:29:23.667 [info] [<unknown>][bc74126d][ManagementConnection] New connection established.
+2025-02-02 21:29:23.686 [info] [<unknown>][3fe1e03a][ExtensionHostConnection] New connection established.
+2025-02-02 21:29:23.689 [info] [<unknown>][3fe1e03a][ExtensionHostConnection] <undefined> Launched Extension Host Process.
+2025-02-02 21:29:23.689 [error] [<unknown>][3fe1e03a][ExtensionHostConnection] <undefined> Extension Host Process had an error
+2025-02-02 21:29:23.689 [error] Error: spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-02 21:29:23.690 [info] Cancelling previous shutdown timeout
+2025-02-02 21:29:23.690 [info] Last EH closed, waiting before shutting down
+2025-02-02 21:29:41.294 [info] [<unknown>][bc74126d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 21:29:49.086 [info] [<unknown>][485ea61f][ExtensionHostConnection] New connection established.
+2025-02-02 21:29:49.089 [info] [<unknown>][485ea61f][ExtensionHostConnection] <undefined> Launched Extension Host Process.
+2025-02-02 21:29:49.089 [error] [<unknown>][485ea61f][ExtensionHostConnection] <undefined> Extension Host Process had an error
+2025-02-02 21:29:49.089 [error] Error: spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-02 21:29:49.090 [info] Cancelling previous shutdown timeout
+2025-02-02 21:29:49.090 [info] Last EH closed, waiting before shutting down
+2025-02-02 21:29:49.090 [info] [<unknown>][435a4d15][ManagementConnection] New connection established.
+2025-02-02 21:29:55.507 [info] [<unknown>][435a4d15][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 21:29:56.165 [info] [<unknown>][22fa4421][ManagementConnection] New connection established.
+2025-02-02 21:29:56.190 [info] [<unknown>][0bd49847][ExtensionHostConnection] New connection established.
+2025-02-02 21:29:56.193 [info] [<unknown>][0bd49847][ExtensionHostConnection] <undefined> Launched Extension Host Process.
+2025-02-02 21:29:56.193 [error] [<unknown>][0bd49847][ExtensionHostConnection] <undefined> Extension Host Process had an error
+2025-02-02 21:29:56.193 [error] Error: spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-02 21:29:56.194 [info] Cancelling previous shutdown timeout
+2025-02-02 21:29:56.194 [info] Last EH closed, waiting before shutting down
+2025-02-02 21:30:06.441 [info] [<unknown>][22fa4421][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 21:30:15.626 [info] [<unknown>][67aa9582][ManagementConnection] New connection established.
+2025-02-02 21:30:15.643 [info] [<unknown>][db8c4386][ExtensionHostConnection] New connection established.
+2025-02-02 21:30:15.645 [info] [<unknown>][db8c4386][ExtensionHostConnection] <undefined> Launched Extension Host Process.
+2025-02-02 21:30:15.646 [error] [<unknown>][db8c4386][ExtensionHostConnection] <undefined> Extension Host Process had an error
+2025-02-02 21:30:15.646 [error] Error: spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-02 21:30:15.646 [info] Cancelling previous shutdown timeout
+2025-02-02 21:30:15.646 [info] Last EH closed, waiting before shutting down
+2025-02-02 21:30:58.489 [info] [<unknown>][67aa9582][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 21:30:59.210 [info] [<unknown>][4383912f][ManagementConnection] New connection established.
+2025-02-02 21:30:59.228 [info] [<unknown>][6b3fb7ad][ExtensionHostConnection] New connection established.
+2025-02-02 21:30:59.230 [info] [<unknown>][6b3fb7ad][ExtensionHostConnection] <undefined> Launched Extension Host Process.
+2025-02-02 21:30:59.230 [error] [<unknown>][6b3fb7ad][ExtensionHostConnection] <undefined> Extension Host Process had an error
+2025-02-02 21:30:59.230 [error] Error: spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-02-02 21:30:59.231 [info] Cancelling previous shutdown timeout
+2025-02-02 21:30:59.231 [info] Last EH closed, waiting before shutting down
+2025-02-02 21:35:59.232 [info] Last EH closed, shutting down

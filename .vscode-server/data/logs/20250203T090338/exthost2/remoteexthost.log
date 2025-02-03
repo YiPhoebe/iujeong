@@ -1,0 +1,67 @@
+2025-02-03 09:03:46.352 [info] Extension host with pid 2493958 started
+2025-02-03 09:03:46.361 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': Lock acquired.
+2025-02-03 09:03:46.386 [info] Eager extensions activated
+2025-02-03 09:21:50.003 [info] Lock '/home/iujeong/.vscode-server/data/User/workspaceStorage/d93eea3a3c3f435b3cabd9cc82da6704/vscode.lock': The lock was lost unexpectedly.
+2025-02-03 09:41:15.889 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-02-03 09:41:16.028 [warning] Using default string since no string found in i18n bundle that has the key: Source map support is enabled in the Python Extension, this will adversely impact performance of the extension.
+2025-02-03 09:41:16.028 [warning] Using default string since no string found in i18n bundle that has the key: Disable Source Map Support
+2025-02-03 09:41:16.028 [warning] Using default string since no string found in i18n bundle that has the key: Enabling source map support in the Python Extension will adversely impact performance of the extension.
+2025-02-03 09:41:16.028 [warning] Using default string since no string found in i18n bundle that has the key: Enable and reload Window.
+2025-02-03 09:41:16.028 [warning] Using default string since no string found in i18n bundle that has the key: ▶ Launch TensorBoard Session
+2025-02-03 09:41:16.028 [warning] Using default string since no string found in i18n bundle that has the key: Launch TensorBoard session
+2025-02-03 09:41:16.195 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-02-03 09:41:16.195 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-02-03 09:41:18.116 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099487)
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2302544)
+	at T.stop (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099059)
+	at T.doInitialize (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2098878)
+	at async T.start (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2095442)
+	at async Object.start (/home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:243439)
+	at async _0x44e601._startClient (/home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:187280)
+	at async _0x44e601._createNewRequest (/home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:186741)
+	at async _0x44e601._enqueueRequestAndWaitForRun (/home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:185931)
+	at async _0x44e601.startClient (/home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist/extension.bundle.js:1:185419)
+	at async h.start (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:39659)
+2025-02-03 09:41:18.117 [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2041842)
+	at Object.dispose (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2104375)
+	at T.handleConnectionClosed (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2104782)
+	at T.handleConnectionClosed (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2302951)
+	at /home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2104524
+	at s.invoke (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2043694)
+	at a.fire (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2044512)
+	at ne (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2030065)
+	at s.invoke (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2043694)
+	at a.fire (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2044512)
+	at v.fireClose (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2053337)
+	at ChildProcess.<anonymous> (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2068027)
+	at ChildProcess.emit (node:events:530:35)
+	at maybeClose (node:internal/child_process:1104:16)
+	at Socket.<anonymous> (node:internal/child_process:456:11)
+	at Socket.emit (node:events:518:28)
+	at Pipe.<anonymous> (node:net:343:12)
+2025-02-03 09:41:18.117 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099487)
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2302544)
+	at T.stop (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099059)
+	at T.doInitialize (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2098878)
+	at async T.start (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2095442)
+2025-02-03 09:41:18.117 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099487)
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2302544)
+	at T.stop (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099059)
+	at T.doInitialize (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2098878)
+	at async T.start (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2095442)
+2025-02-03 09:41:18.117 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099487)
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2302544)
+	at T.stop (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099059)
+	at T.doInitialize (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2098878)
+	at async T.start (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2095442)
+2025-02-03 09:41:18.117 [error] Error: Client is not running and can't be stopped. It's current state is: starting
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099487)
+	at T.shutdown (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2302544)
+	at T.stop (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2099059)
+	at T.doInitialize (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2098878)
+	at async T.start (/home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/out/client/extension.js:2:2095442)

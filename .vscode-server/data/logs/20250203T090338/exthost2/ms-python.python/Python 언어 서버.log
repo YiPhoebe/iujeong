@@ -1,0 +1,82 @@
+2025-02-03 09:41:17.049 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-02-03 09:41:17.097 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.097 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.097 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+write EPIPE
+2025-02-03 09:41:17.098 [info] [Error - 오전 9:41:17] Server initialization failed.
+2025-02-03 09:41:17.098 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.098 [info] [Error - 오전 9:41:17] Pylance client: couldn't create connection to server.
+2025-02-03 09:41:17.098 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.098 [info] [Info  - 오전 9:41:17] Connection to server got closed. Server will restart.
+2025-02-03 09:41:17.098 [info] true
+2025-02-03 09:41:17.103 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.103 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.103 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+write EPIPE
+2025-02-03 09:41:17.103 [info] [Error - 오전 9:41:17] Server initialization failed.
+2025-02-03 09:41:17.103 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.103 [info] [Error - 오전 9:41:17] Pylance client: couldn't create connection to server.
+2025-02-03 09:41:17.103 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.103 [info] [Info  - 오전 9:41:17] Connection to server got closed. Server will restart.
+2025-02-03 09:41:17.103 [info] true
+2025-02-03 09:41:17.103 [info] [Error - 오전 9:41:17] Restarting server failed
+2025-02-03 09:41:17.103 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.105 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.105 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.105 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+write EPIPE
+2025-02-03 09:41:17.105 [info] [Error - 오전 9:41:17] Server initialization failed.
+2025-02-03 09:41:17.105 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.106 [info] [Error - 오전 9:41:17] Pylance client: couldn't create connection to server.
+2025-02-03 09:41:17.106 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.106 [info] [Info  - 오전 9:41:17] Connection to server got closed. Server will restart.
+2025-02-03 09:41:17.106 [info] true
+2025-02-03 09:41:17.106 [info] [Error - 오전 9:41:17] Restarting server failed
+2025-02-03 09:41:17.106 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.108 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.108 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.108 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+write EPIPE
+2025-02-03 09:41:17.108 [info] [Error - 오전 9:41:17] Server initialization failed.
+2025-02-03 09:41:17.108 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.108 [info] [Error - 오전 9:41:17] Pylance client: couldn't create connection to server.
+2025-02-03 09:41:17.108 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.108 [info] [Info  - 오전 9:41:17] Connection to server got closed. Server will restart.
+2025-02-03 09:41:17.108 [info] true
+2025-02-03 09:41:17.109 [info] [Error - 오전 9:41:17] Restarting server failed
+2025-02-03 09:41:17.109 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+spawn /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/node ENOENT
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] Client Pylance: connection to server is erroring.
+write EPIPE
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] Server initialization failed.
+2025-02-03 09:41:17.111 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] Pylance client: couldn't create connection to server.
+2025-02-03 09:41:17.111 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] 지난 3분 동안 Pylance가 5번 충돌했습니다. Pylance가 다시 시작되지 않습니다. 자세한 내용은 [이 링크](https://aka.ms/AApf7ox)를 확인하세요.
+2025-02-03 09:41:17.111 [info] [Error - 오전 9:41:17] Restarting server failed
+2025-02-03 09:41:17.111 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 

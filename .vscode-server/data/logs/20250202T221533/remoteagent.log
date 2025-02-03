@@ -1,0 +1,47 @@
+2025-02-02 22:15:33.668 [info] 
+
+
+
+
+2025-02-02 22:15:33.672 [info] Extension host agent started.
+2025-02-02 22:15:33.690 [error] Error while initializing Extensions Watcher Unexpected token '<', "<<<<<<< HE"... is not valid JSON
+2025-02-02 22:15:33.736 [info] [<unknown>][5edf3d12][ManagementConnection] New connection established.
+2025-02-02 22:15:33.767 [info] [<unknown>][b8135463][ExtensionHostConnection] New connection established.
+2025-02-02 22:15:33.795 [info] [<unknown>][b8135463][ExtensionHostConnection] <2481799> Launched Extension Host Process.
+2025-02-02 22:15:33.813 [info] [<unknown>][b8135463][ExtensionHostConnection] <2481799><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 22:15:41.512 [info] [<unknown>][8bebf612][ExtensionHostConnection] New connection established.
+2025-02-02 22:15:41.514 [info] [<unknown>][8bebf612][ExtensionHostConnection] <2481880> Launched Extension Host Process.
+2025-02-02 22:15:41.539 [info] [<unknown>][fb3cea50][ManagementConnection] New connection established.
+2025-02-02 22:15:41.540 [info] [<unknown>][8bebf612][ExtensionHostConnection] <2481880><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 22:16:10.795 [info] [<unknown>][5edf3d12][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-02 22:16:22.345 [info] [<unknown>][fb3cea50][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 22:16:22.350 [info] [<unknown>][8bebf612][ExtensionHostConnection] <2481880> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 22:16:22.350 [info] Cancelling previous shutdown timeout
+2025-02-02 22:20:41.679 [info] [<unknown>][b8135463][ExtensionHostConnection] <2481799> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 22:20:41.680 [info] Last EH closed, waiting before shutting down
+2025-02-02 22:20:41.681 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2025-02-02 22:25:05.631 [info] [<unknown>][5edf3d12][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-02 22:25:05.631 [info] [<unknown>][b1e54cfd][ExtensionHostConnection] New connection established.
+2025-02-02 22:25:05.633 [info] [<unknown>][b1e54cfd][ExtensionHostConnection] <2482232> Launched Extension Host Process.
+2025-02-02 22:25:05.633 [info] [<unknown>][77362da2][ManagementConnection] New connection established.
+2025-02-02 22:25:05.652 [info] [<unknown>][b1e54cfd][ExtensionHostConnection] <2482232><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 22:25:09.519 [info] [<unknown>][77362da2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 22:25:09.524 [info] [<unknown>][b1e54cfd][ExtensionHostConnection] <2482232> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 22:25:09.525 [info] Cancelling previous shutdown timeout
+2025-02-02 22:25:09.525 [info] Last EH closed, waiting before shutting down
+2025-02-02 22:25:10.247 [info] [<unknown>][f58416fa][ManagementConnection] New connection established.
+2025-02-02 22:25:10.271 [info] [<unknown>][5e3325f5][ExtensionHostConnection] New connection established.
+2025-02-02 22:25:10.273 [info] [<unknown>][5e3325f5][ExtensionHostConnection] <2482289> Launched Extension Host Process.
+2025-02-02 22:25:10.292 [info] [<unknown>][5e3325f5][ExtensionHostConnection] <2482289><stderr> Error reading NLS messages file /home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json: Error: ENOENT: no such file or directory, open '/home/iujeong/.vscode-server/data/clp/0d8c6eb27ebf0819b0f03bef87650722.ko/cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/nls.messages.json'
+
+2025-02-02 22:25:12.704 [info] [<unknown>][f58416fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-02 22:25:12.709 [info] [<unknown>][5e3325f5][ExtensionHostConnection] <2482289> Extension Host Process exited with code: 0, signal: null.
+2025-02-02 22:25:12.709 [info] Cancelling previous shutdown timeout
+2025-02-02 22:25:12.709 [info] Last EH closed, waiting before shutting down
+2025-02-02 22:30:05.804 [info] [<unknown>][5edf3d12][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+2025-02-02 22:30:12.709 [info] Last EH closed, shutting down

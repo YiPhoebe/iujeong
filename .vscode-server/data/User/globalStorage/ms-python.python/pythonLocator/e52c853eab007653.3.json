@@ -1,0 +1,15 @@
+{
+  "environment": {
+    "executable": "/opt/anaconda3/envs/shkim/bin/python",
+    "prefix": "/opt/anaconda3/envs/shkim",
+    "version": "3.13.1.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/opt/anaconda3/envs/shkim/bin/python",
+      "/opt/anaconda3/envs/shkim/bin/python3",
+      "/opt/anaconda3/envs/shkim/bin/python3.1",
+      "/opt/anaconda3/envs/shkim/bin/python3.13"
+    ]
+  },
+  "symlinks": []
+}

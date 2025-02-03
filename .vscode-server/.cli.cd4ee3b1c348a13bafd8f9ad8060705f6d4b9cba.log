@@ -1,0 +1,9 @@
+Listening on 127.0.0.1:40637
+[2025-02-03 09:03:38] info Disposed of connection to running server.
+[2025-02-03 09:03:38] info Checking /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/log.txt and /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/pid.txt for a running server...
+[2025-02-03 09:03:38] info Starting server...
+[2025-02-03 09:03:38] info Server started
+[2025-02-03 09:03:45] info Disposed of connection to running server.
+[2025-02-03 09:03:45] info Disposed of connection to running server.
+[2025-02-03 09:03:46] info Checking /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/log.txt and /home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/pid.txt for a running server...
+[2025-02-03 09:03:46] info Found running server (pid=2493801)

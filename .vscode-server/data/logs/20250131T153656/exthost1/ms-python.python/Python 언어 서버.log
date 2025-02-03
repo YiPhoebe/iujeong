@@ -1,0 +1,70 @@
+2025-01-31 15:36:59.999 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-31 15:37:00.376 [info] [Info  - 오후 3:37:00] (2257415) Server root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-31 15:37:00.376 [info] [Info  - 오후 3:37:00] (2257415) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-31 15:37:00.377 [info] [Info  - 오후 3:37:00] (2257415) Starting service instance "iujeong"
+2025-01-31 15:37:00.425 [info] [Info  - 오후 3:37:00] (2257415) Setting environmentName for service "iujeong": "3.12.8 (bogdong conda)"
+2025-01-31 15:37:00.425 [info] [Info  - 오후 3:37:00] (2257415) Setting pythonPath for service "iujeong": "/opt/anaconda3/envs/bogdong/bin/python"
+2025-01-31 15:37:00.426 [info] [Info  - 오후 3:37:00] (2257415) No include entries specified; assuming /home/iujeong
+2025-01-31 15:37:00.426 [info] [Info  - 오후 3:37:00] (2257415) Auto-excluding **/node_modules
+2025-01-31 15:37:00.426 [info] [Info  - 오후 3:37:00] (2257415) Auto-excluding **/__pycache__
+2025-01-31 15:37:00.426 [info] [Info  - 오후 3:37:00] (2257415) Auto-excluding **/.*
+2025-01-31 15:37:00.452 [info] [Info  - 오후 3:37:00] (2257415) Assuming Python version 3.12.8.final.0
+2025-01-31 15:37:00.541 [info] [Info  - 오후 3:37:00] (2257415) Found 7 source files
+2025-01-31 15:37:00.881 [info] [Info  - 오후 3:37:00] (2257415) Background analysis(1) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-31 15:37:00.890 [info] [Info  - 오후 3:37:00] (2257415) Background analysis(1) started
+2025-01-31 15:37:01.063 [info] [Info  - 오후 3:37:01] (2257415) Indexer background runner(2) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-31 15:37:01.063 [info] [Info  - 오후 3:37:01] (2257415) Indexing(2) started
+2025-01-31 15:37:01.601 [info] [Info  - 오후 3:37:01] (2257415) scanned(2) 235 files over 1 exec env
+2025-01-31 15:37:01.854 [info] [Info  - 오후 3:37:01] (2257415) indexed(2) 235 files over 1 exec env
+2025-01-31 15:37:01.912 [info] [Info  - 오후 3:37:01] (2257415) Indexing finished(2).
+2025-01-31 16:15:21.877 [info] [Info  - 오후 4:15:21] (2257415) Indexer background runner(3) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (refresh)
+2025-01-31 16:15:21.877 [info] [Info  - 오후 4:15:21] (2257415) Indexing(3) started
+2025-01-31 16:15:22.308 [info] [Info  - 오후 4:15:22] (2257415) scanned(3) 235 files over 1 exec env
+2025-01-31 16:15:22.516 [info] [Info  - 오후 4:15:22] (2257415) indexed(3) 235 files over 1 exec env
+2025-01-31 16:15:22.564 [info] [Info  - 오후 4:15:22] (2257415) Indexing finished(3).
+2025-01-31 16:51:04.142 [info] [Info  - 오후 4:51:04] (2257415) Indexer background runner(4) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (refresh)
+2025-01-31 16:51:04.143 [info] [Info  - 오후 4:51:04] (2257415) Indexing(4) started
+2025-01-31 16:51:04.446 [info] [Info  - 오후 4:51:04] (2257415) scanned(4) 63 files over 1 exec env
+2025-01-31 16:51:04.620 [info] [Info  - 오후 4:51:04] (2257415) indexed(4) 63 files over 1 exec env
+2025-01-31 16:51:04.643 [info] [Info  - 오후 4:51:04] (2257415) Indexing finished(4).
+2025-01-31 16:51:14.105 [info] [Info  - 오후 4:51:14] (2257415) Indexer background runner(5) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (refresh)
+2025-01-31 16:51:14.105 [info] [Info  - 오후 4:51:14] (2257415) Indexing(5) started
+2025-01-31 16:51:14.449 [info] [Info  - 오후 4:51:14] (2257415) scanned(5) 63 files over 1 exec env
+2025-01-31 16:51:14.634 [info] [Info  - 오후 4:51:14] (2257415) indexed(5) 63 files over 1 exec env
+2025-01-31 16:51:14.668 [info] [Info  - 오후 4:51:14] (2257415) Indexing finished(5).
+2025-01-31 16:52:08.540 [info] [Info  - 오후 4:52:08] (2257415) Indexer background runner(6) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (refresh)
+2025-01-31 16:52:08.548 [info] [Info  - 오후 4:52:08] (2257415) Indexing(6) started
+2025-01-31 16:52:08.802 [info] [Info  - 오후 4:52:08] (2257415) scanned(6) 12 files over 1 exec env
+2025-01-31 16:52:08.927 [info] [Info  - 오후 4:52:08] (2257415) indexed(6) 12 files over 1 exec env
+2025-01-31 16:52:08.942 [info] [Info  - 오후 4:52:08] (2257415) Indexing finished(6).
+2025-01-31 16:55:08.097 [info] [Info  - 오후 4:55:08] (2257415) Indexer background runner(7) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (refresh)
+2025-01-31 16:55:08.097 [info] [Info  - 오후 4:55:08] (2257415) Indexing(7) started
+2025-01-31 16:55:08.387 [info] [Info  - 오후 4:55:08] (2257415) scanned(7) 13 files over 1 exec env
+2025-01-31 16:55:08.511 [info] [Info  - 오후 4:55:08] (2257415) indexed(7) 13 files over 1 exec env
+2025-01-31 16:55:08.520 [info] [Info  - 오후 4:55:08] (2257415) Indexing finished(7).
+2025-01-31 17:00:12.353 [info] [Info  - 오후 5:00:12] (2257415) Auto-excluding /home/iujeong/calculator/new_env
+2025-01-31 17:00:12.365 [info] [Info  - 오후 5:00:12] (2257415) Found 7 source files
+2025-01-31 17:00:26.013 [info] [Info  - 오후 5:00:26] (2257415) Setting environmentName for service "iujeong": "3.13.1 (shkim conda)"
+2025-01-31 17:00:26.013 [info] [Info  - 오후 5:00:26] (2257415) Setting pythonPath for service "iujeong": "/opt/anaconda3/envs/shkim/bin/python"
+2025-01-31 17:00:26.013 [info] [Info  - 오후 5:00:26] (2257415) No include entries specified; assuming /home/iujeong
+2025-01-31 17:00:26.013 [info] [Info  - 오후 5:00:26] (2257415) Auto-excluding **/node_modules
+2025-01-31 17:00:26.013 [info] [Info  - 오후 5:00:26] (2257415) Auto-excluding **/__pycache__
+2025-01-31 17:00:26.013 [info] [Info  - 오후 5:00:26] (2257415) Auto-excluding **/.*
+2025-01-31 17:00:26.061 [info] [Info  - 오후 5:00:26] (2257415) Assuming Python version 3.13.1.final.0
+2025-01-31 17:00:26.199 [info] [Info  - 오후 5:00:26] (2257415) Auto-excluding /home/iujeong/calculator/new_env
+2025-01-31 17:00:26.199 [info] [Info  - 오후 5:00:26] (2257415) Auto-excluding /home/iujeong/new_env
+2025-01-31 17:00:26.204 [info] [Info  - 오후 5:00:26] (2257415) Found 7 source files
+2025-01-31 17:02:18.239 [info] [Info  - 오후 5:02:18] (2257415) Indexer background runner(8) root directory: file:///home/iujeong/.vscode-server/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-31 17:02:18.239 [info] [Info  - 오후 5:02:18] (2257415) Indexing(8) started
+2025-01-31 17:02:18.582 [info] [Info  - 오후 5:02:18] (2257415) scanned(8) 212 files over 1 exec env
+2025-01-31 17:02:20.627 [info] [Info  - 오후 5:02:20] (2257415) indexed(8) 212 files over 1 exec env
+2025-01-31 17:02:20.716 [info] [Info  - 오후 5:02:20] (2257415) Indexing finished(8).
+2025-01-31 17:10:18.174 [info] [Info  - 오후 5:10:18] (2257415) Setting environmentName for service "iujeong": "3.13.1 (shkim conda)"
+2025-01-31 17:10:18.174 [info] [Info  - 오후 5:10:18] (2257415) Setting pythonPath for service "iujeong": "/opt/anaconda3/envs/shkim/bin/python"
+2025-01-31 17:10:18.174 [info] [Info  - 오후 5:10:18] (2257415) No include entries specified; assuming /home/iujeong
+2025-01-31 17:10:18.174 [info] [Info  - 오후 5:10:18] (2257415) Auto-excluding **/node_modules
+2025-01-31 17:10:18.174 [info] [Info  - 오후 5:10:18] (2257415) Auto-excluding **/__pycache__
+2025-01-31 17:10:18.174 [info] [Info  - 오후 5:10:18] (2257415) Auto-excluding **/.*
+2025-01-31 17:10:18.193 [info] [Info  - 오후 5:10:18] (2257415) Assuming Python version 3.13.1.final.0
+2025-01-31 17:10:18.239 [info] [Info  - 오후 5:10:18] (2257415) Auto-excluding /home/iujeong/calculator/new_env
+2025-01-31 17:10:18.242 [info] [Info  - 오후 5:10:18] (2257415) Found 7 source files

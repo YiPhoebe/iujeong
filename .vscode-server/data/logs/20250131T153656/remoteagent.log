@@ -1,0 +1,20 @@
+2025-01-31 15:36:56.053 [info] 
+
+
+
+
+2025-01-31 15:36:56.061 [info] Extension host agent started.
+2025-01-31 15:36:56.103 [info] [<unknown>][c684ff34][ExtensionHostConnection] New connection established.
+2025-01-31 15:36:56.105 [info] [<unknown>][31cdb931][ManagementConnection] New connection established.
+2025-01-31 15:36:56.229 [info] [<unknown>][c684ff34][ExtensionHostConnection] <2256958> Launched Extension Host Process.
+2025-01-31 15:41:56.061 [info] New EH opened, aborting shutdown
+2025-01-31 17:00:26.235 [error] [File Watcher] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /opt/anaconda3/envs/bogdong/lib/python3.12)
+2025-01-31 17:10:18.275 [error] [File Watcher] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /opt/anaconda3/envs/shkim/lib/python3.13)
+2025-01-31 17:46:07.191 [info] [<unknown>][31cdb931][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-01-31 17:46:07.193 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/iujeong/.vscode-server/cli/servers/Stable-cd4ee3b1c348a13bafd8f9ad8060705f6d4b9cba/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2025-01-31 20:45:45.555 [info] [<unknown>][c684ff34][ExtensionHostConnection] <2256958> Extension Host Process exited with code: 0, signal: null.
+2025-01-31 20:45:45.556 [info] Last EH closed, waiting before shutting down
+2025-01-31 20:46:13.110 [info] [<unknown>][31cdb931][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+2025-01-31 20:50:45.556 [info] Last EH closed, shutting down

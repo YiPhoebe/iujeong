@@ -1,0 +1,76 @@
+2025-02-02 17:45:53.841 [info] 실험 'pythonRecommendTensorboardExt'이(가) 활성 상태입니다.
+2025-02-02 17:45:53.841 [info] 실험 'pythonTerminalEnvVarActivation'이(가) 활성 상태입니다.
+2025-02-02 17:45:53.841 [info] 실험 'pythonTestAdapter'이(가) 활성 상태입니다.
+2025-02-02 17:45:53.841 [info] Native locator: Refresh started
+2025-02-02 17:45:53.841 [info] Native locator: Refresh started
+2025-02-02 17:45:53.844 [info] > pyenv which python
+2025-02-02 17:45:53.844 [info] cwd: .
+2025-02-02 17:45:53.846 [info] Conda environment manager found at: /opt/anaconda3/bin/conda
+2025-02-02 17:45:53.850 [info] Python 인터프리터 경로: /opt/anaconda3/envs/shkim/bin/python
+2025-02-02 17:45:53.851 [info] Native locator: Refresh finished in 208 ms
+2025-02-02 17:45:54.046 [info] > conda info --json
+2025-02-02 17:45:54.046 [info] shell: bash
+2025-02-02 17:45:54.453 [info] > conda run -n shkim --no-capture-output python ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-02-02 17:45:54.453 [info] shell: bash
+2025-02-02 17:45:54.907 [info] Pylance 언어 서버를 시작하는 중입니다.
+2025-02-02 17:45:55.586 [info] > /bin/python3 ./.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariables.py
+2025-02-02 17:45:55.586 [info] shell: bash
+2025-02-02 17:45:55.601 [info] Setting environment variable GCC_RANLIB in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-gcc-ranlib {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_EXE in collection to /opt/anaconda3/bin/conda {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable _CE_M in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable build_alias in collection to x86_64-conda-linux-gnu {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CMAKE_ARGS in collection to -DCMAKE_LINKER=/opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-ld -DCMAKE_STRIP=/opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-strip {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GPROF in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-gprof {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable _CONDA_PYTHON_SYSCONFIGDATA_NAME in collection to _sysconfigdata_x86_64_conda_cos7_linux_gnu {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable STRINGS in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-strings {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CPP in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-cpp {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable XML_CATALOG_FILES in collection to file:///opt/anaconda3/envs/shkim/etc/xml/catalog file:///etc/xml/catalog {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GSETTINGS_SCHEMA_DIR in collection to /opt/anaconda3/envs/shkim/share/glib-2.0/schemas {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_ROOT in collection to /opt/anaconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_PREFIX in collection to /opt/anaconda3/envs/shkim {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GSETTINGS_SCHEMA_DIR_CONDA_BACKUP in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CXX in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-c++ {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CXXFLAGS in collection to -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /opt/anaconda3/envs/shkim/include  -I/opt/anaconda3/envs/shkim/targets/x86_64-linux/include {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable DEBUG_CXXFLAGS in collection to -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /opt/anaconda3/envs/shkim/include {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable LDFLAGS in collection to -Wl,-O2 -Wl,--sort-common -Wl,--as-needed -Wl,-z,relro -Wl,-z,now -Wl,--disable-new-dtags -Wl,--gc-sections -Wl,-rpath,/opt/anaconda3/envs/shkim/lib -Wl,-rpath-link,/opt/anaconda3/envs/shkim/lib -L/opt/anaconda3/envs/shkim/lib  -L/opt/anaconda3/envs/shkim/targets/x86_64-linux/lib -L/opt/anaconda3/envs/shkim/targets/x86_64-linux/lib/stubs {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable DEBUG_CFLAGS in collection to -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-all -fno-plt -Og -g -Wall -Wextra -fvar-tracking-assignments -ffunction-sections -pipe -isystem /opt/anaconda3/envs/shkim/include {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable NVCC_PREPEND_FLAGS in collection to  -ccbin=/opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-c++ {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CXX_FOR_BUILD in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-c++ {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable ELFEDIT in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-elfedit {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_PROMPT_MODIFIER in collection to (shkim)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CMAKE_PREFIX_PATH in collection to /opt/anaconda3/envs/shkim:/opt/anaconda3/envs/shkim/x86_64-conda-linux-gnu/sysroot/usr {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CPPFLAGS in collection to -DNDEBUG -D_FORTIFY_SOURCE=2 -O2 -isystem /opt/anaconda3/envs/shkim/include  -I/opt/anaconda3/envs/shkim/targets/x86_64-linux/include {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable LD in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-ld {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable READELF in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-readelf {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GXX in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-g++ {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GCC_AR in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-gcc-ar {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable ADDR2LINE in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-addr2line {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable _CE_CONDA in collection to  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GCC_NM in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-gcc-nm {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable SIZE in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-size {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable HOST in collection to x86_64-conda-linux-gnu {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CC_FOR_BUILD in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-cc {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_SHLVL in collection to 2 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable AR in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-ar {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable AS in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-as {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable DEBUG_CPPFLAGS in collection to -D_DEBUG -D_FORTIFY_SOURCE=2 -Og -isystem /opt/anaconda3/envs/shkim/include {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable host_alias in collection to x86_64-conda-linux-gnu {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable NM in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-nm {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable GCC in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-gcc {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable LD_GOLD in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-ld.gold {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_PYTHON_EXE in collection to /opt/anaconda3/bin/python {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_DEFAULT_ENV in collection to shkim {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable OBJCOPY in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-objcopy {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_ALLOW_SOFTLINKS in collection to false {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable STRIP in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-strip {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable OBJDUMP in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-objdump {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Prepending environment variable PATH in collection with /opt/anaconda3/envs/shkim/bin:/opt/anaconda3/condabin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CC in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-cc {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CFLAGS in collection to -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /opt/anaconda3/envs/shkim/include  -I/opt/anaconda3/envs/shkim/targets/x86_64-linux/include {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CXXFILT in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-c++filt {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable BUILD in collection to x86_64-conda-linux-gnu {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_PREFIX_1 in collection to /opt/anaconda3 {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable RANLIB in collection to /opt/anaconda3/envs/shkim/bin/x86_64-conda-linux-gnu-ranlib {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Setting environment variable CONDA_BUILD_SYSROOT in collection to /opt/anaconda3/envs/shkim/x86_64-conda-linux-gnu/sysroot {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2025-02-02 17:45:55.601 [info] Prepending environment variable PS1 in collection with (shkim)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2025-02-02 17:45:55.601 [info] Send text to terminal: /bin/python3 /home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/printEnvVariablesToFile.py /home/iujeong/.vscode-server/extensions/ms-python.python-2024.22.2-linux-x64/python_files/deactivate/bash/envVars.txt

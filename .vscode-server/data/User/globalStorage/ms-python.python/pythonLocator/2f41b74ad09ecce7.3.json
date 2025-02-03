@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/iujeong/calculator/new_env/bin/python",
+    "prefix": "/home/iujeong/calculator/new_env",
+    "version": "3.12.8.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/iujeong/calculator/new_env/bin/python",
+      "/home/iujeong/calculator/new_env/bin/python3",
+      "/home/iujeong/calculator/new_env/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}
