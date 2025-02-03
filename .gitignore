@@ -20,3 +20,6 @@ config.json
 
 # 캐시 파일 무시
 *.cache
+
+# snap/firmware-updater/ : 해당 폴더 내부에 있는 모든 파일을 무시함.
+snap/firmware-updater/
